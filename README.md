@@ -49,12 +49,13 @@ generate and customize your documentation. Here are just a few:
 + [jsdoc3Template](https://github.com/DBCDK/jsdoc3Template)
   ([example](https://github.com/danyg/jsdoc3Template/wiki#wiki-screenshots))
 + [minami](https://github.com/Nijikokun/minami)
++ [docdash](https://github.com/clenemt/docdash)([example](http://clenemt.github.io/docdash/))
 
 ### Build Tools
 
++ [JSDoc Ant task](https://github.com/jannon/jsdoc3-ant-task)
 + [JSDoc Grunt plugin](https://github.com/krampstudio/grunt-jsdoc)
-+ [JSDoc ant task](https://github.com/jannon/jsdoc3-ant-task)
-
++ [JSDoc Gulp plugin](https://github.com/mlucool/gulp-jsdoc3)
 
 For More Information
 --------------------
@@ -68,7 +69,7 @@ Overflow](http://stackoverflow.com/questions/tagged/jsdoc).
 License
 -------
 
-JSDoc 3 is copyright (c) 2011-2015 Michael Mathews <micmath@gmail.com> and the
+JSDoc 3 is copyright (c) 2011-present Michael Mathews <micmath@gmail.com> and the
 [contributors to JSDoc](https://github.com/jsdoc3/jsdoc/graphs/contributors).
 
 JSDoc 3 is free software, licensed under the Apache License, Version 2.0. See
